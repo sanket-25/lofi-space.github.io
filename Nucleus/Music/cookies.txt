@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.jacobrosemusic.com	TRUE	/	FALSE	1999999999	zzzzr	YmNTQkt4SnY3OWxWdmpBUjkyOEI5cExFS2pHR1JEYjdPRUQ3WFdnZENjMG5HZEJIR2ZyTnB0clFjeFlVSGo2a3l0UWZrZVpEdkV6SXcvTUVhaWhiZ1JkaERPd3RwdzNodWRUMWpxSzMwOWVvQUFlb0Q5Q3QyTS9lbkxYbG9OelRZTWRBNm1mZVI3K240NERsU0psYkp3PT0tLUtSYytOMnpwaWRSR283YlJLRGNOTEE9PQ%3D%3D--ff092ae67a5ad73da9885cb3b342a93bd3ec120d
+jacobrosemusic.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

@@ -24,8 +24,8 @@ let track_list = [
  
 
   {
-    name: "Pehli Mohobat",
-    artist: "Darshan Raval",
+    name: "Lo-Fi Mashup",
+    artist: "Aftermorning",
     image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./Music/1.mp3",
   },
